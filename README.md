@@ -54,21 +54,12 @@ Puller works perfectly alongside the Checker addon, though it doesn't require Ch
 
 Easily integrate the `/pull` command into your standard pulling macro.
 
-**New Macro**:
-
 ```
 /pull
 /ja "Provoke" <t>
 ```
 
 ![Puller Example Macro](https://i.imgur.com/ySesqht.png)
-
-**Old Ugly Macro**:
-
-```       
-/party pUlLING <t> bE r3aDY FOR TROUBLE!!!! :D:D :D
-/ja "Provoke" <t>
-```     
 
 ---
 
