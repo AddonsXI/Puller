@@ -84,9 +84,9 @@ Easily integrate the `/pull` command into your standard pulling macro.
    When `/pull` is triggered on a targeted mob, Puller will broadcast the following mob information in party chat:
 
     - Mob Name and Level
-    - Difficulty: Displays mob toughness (e.g., "Too Weak", "Tough").
-    - Attributes: Displays if the mob has high/low evasion or defense.
-    - Optional Call Sound: Set a customizable alert sound to play during pulls.
+    - Difficulty: Displays mob toughness (e.g., "Too Weak", "Incredibly Tough").
+    - Attributes: Displays if the mob has high / low evasion or defense.
+    - Optional Call Sound: Set a customizable alert `<call>` to play during pulls.
 
 ---
 
