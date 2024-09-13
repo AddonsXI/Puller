@@ -22,8 +22,8 @@
 addon.name     = 'puller'
 addon.version  = '1.0'
 addon.author   = 'AddonsXI'
-addon.link     = 'https://github.com/addonsxi'
-addon.description = 'Enhance your FFXI Puller role with real-time mob updates sent to your party, including mob name, level, difficulty, and evasion/defense attributes.'
+addon.link     = 'https://github.com/AddonsXI'
+addon.description = 'Enhance your FFXI Puller role with real-time mob updates sent to your party, including mob name, level, difficulty, and evasion / defense attributes.'
 
 -- Special thanks to atom0s for creating the Checker addon, which inspired this project and provided some of the code used here.
 
@@ -136,7 +136,6 @@ ashita.events.register('command', 'command_cb', function(e) -- Handles in-game c
         end
     end
 end)
-
 
 -----------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------- packet handler
