@@ -77,7 +77,7 @@ Easily integrate the `/pull` command into your standard pulling macro.
 
    When you're ready to pull, simply use your pull macro!
 
-   Make sure to have a line to your pull macro that contains only `/pull`.
+   Make sure to have a line in your pull macro that contains only `/pull`.
 
 4. **Broadcast to Party**  
 
