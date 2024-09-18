@@ -96,7 +96,7 @@ local mobData = { -- Information about mob attributes and difficulty levels
         [0x46] = 'Very Tough',
         [0x47] = 'Incredibly Tough'
     },
-    widescan = {} -- Placeholder for future widescan data
+    widescan = {} 
 }
 
 local isPulling = false -- Keeps track if pulling is active
